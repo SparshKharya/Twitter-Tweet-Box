@@ -157,7 +157,6 @@ body{
 <style>
 </head>
 <body>
-  <h1>Twitter Tweet Box with Html, CSS & JAVASCRIPT </h1>
   <div class="wrapper">
     <div class="input-box">
       <div class="tweet-area">
